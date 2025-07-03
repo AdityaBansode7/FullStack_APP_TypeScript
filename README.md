@@ -9,6 +9,10 @@ This is a **Fullstack User Management App** built for an assignment. It features
 5.Local development using Firebase Emulator Suite  
 
 ---
+## 📸 Frontend UI
+
+![Frontend UI](https://github.com/AdityaBansode7/FullStack_APP_TypeScript/blob/main/screenshots/Frontend_UI.jpg?raw=true)
+
 
 ## ✨ Tech Stack
 
